@@ -8,4 +8,4 @@ Clicking on a single element will just asynchronously loads another js file and 
 
 ## Using
 
-Requirejs, jquery, backbone
+Requirejs, jquery, backbone (only as optional "shim" module)
